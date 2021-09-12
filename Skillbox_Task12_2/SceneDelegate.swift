@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Skillbox_Task12_2
-//
-//  Created by Мария on 25.08.2021.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {

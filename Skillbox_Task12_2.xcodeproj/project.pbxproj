@@ -15,6 +15,7 @@
 		4C3F8EEA26D6709300174974 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C3F8EE826D6709300174974 /* LaunchScreen.storyboard */; };
 		4C3F8EF526D6709400174974 /* Skillbox_Task12_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3F8EF426D6709400174974 /* Skillbox_Task12_2Tests.swift */; };
 		4C3F8F0026D6709400174974 /* Skillbox_Task12_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3F8EFF26D6709400174974 /* Skillbox_Task12_2UITests.swift */; };
+		4CE744D726D6957A007D202C /* MyImageClassifier 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 4CE744D626D6957A007D202C /* MyImageClassifier 1.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4C3F8EFB26D6709400174974 /* Skillbox_Task12_2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Skillbox_Task12_2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C3F8EFF26D6709400174974 /* Skillbox_Task12_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skillbox_Task12_2UITests.swift; sourceTree = "<group>"; };
 		4C3F8F0126D6709400174974 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4CE744D626D6957A007D202C /* MyImageClassifier 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "MyImageClassifier 1.mlmodel"; path = "../../MyImageClassifier 1.mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				4C3F8EDD26D6709000174974 /* AppDelegate.swift */,
 				4C3F8EDF26D6709000174974 /* SceneDelegate.swift */,
 				4C3F8EE126D6709000174974 /* ViewController.swift */,
+				4CE744D626D6957A007D202C /* MyImageClassifier 1.mlmodel */,
 				4C3F8EE326D6709000174974 /* Main.storyboard */,
 				4C3F8EE626D6709300174974 /* Assets.xcassets */,
 				4C3F8EE826D6709300174974 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				4C3F8EE226D6709000174974 /* ViewController.swift in Sources */,
 				4C3F8EDE26D6709000174974 /* AppDelegate.swift in Sources */,
+				4CE744D726D6957A007D202C /* MyImageClassifier 1.mlmodel in Sources */,
 				4C3F8EE026D6709000174974 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

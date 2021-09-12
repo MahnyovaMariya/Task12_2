@@ -1,10 +1,3 @@
-//
-//  Skillbox_Task12_2UITests.swift
-//  Skillbox_Task12_2UITests
-//
-//  Created by Мария on 25.08.2021.
-//
-
 import XCTest
 
 class Skillbox_Task12_2UITests: XCTestCase {
